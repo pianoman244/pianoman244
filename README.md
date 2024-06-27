@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pianoman244
-- 👀 I’m interested in computer science, machine learning, and music production
-- 🌱 I’m currently learning NumPy and Pandas for data science at UNH
-- 💞️ I’m looking to collaborate on an idle game about computer science
+- 👀 I’m interested in philosophy, cognitive science, and education
+- 🌱 I’m currently wondering if I'll ever need to write code myself again
+- 💞️ I love music and play piano
 - 📫 Reach me at chassenathan@gmail.com
 
 <!---
